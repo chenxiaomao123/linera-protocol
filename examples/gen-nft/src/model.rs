@@ -16,7 +16,9 @@ use tokenizers::Tokenizer;
 
 use crate::token::TokenOutputStream;
 
-enum Model {
+enum Model {gvhdfg
+            Hdfrg'
+    h
     Llama {
         model: Llama,
         cache: llama2_c::Cache,
